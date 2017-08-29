@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<computer>
+	<header>
+		<company>제조회사</company>
+		<name>제품명</name>
+		<etc>상세정보</etc>
+		<price>가격</price>
+	</header>
+	<cpu>
+		<company>인텔</company>
+		<name>I7-7700K</name>
+		<etc>소켓 1151 / 4 코어 / 8 쓰레드 / 연산체계 64비트 / 작동속도 4.20Ghz / 터보속도 4.50Ghz
+		</etc>
+		<price>405000</price>
+	</cpu>
+	<cpu>
+		<company>인텔</company>
+		<name>I7-7700</name>
+		<etc>소켓 1151 / 4 코어 / 8 쓰레드 / 연산체계 64비트 / 작동속도 3.60Ghz / 터보속도 4.20Ghz
+		</etc>
+		<price>385000</price>
+	</cpu>
+	<cpu>
+		<company>인텔</company>
+		<name>I7-7600K</name>
+		<etc>소켓 1151 / 4 코어 / 4 쓰레드 / 연산체계 64비트 / 작동속도 3.80Ghz / 터보속도 4.20Ghz
+		</etc>
+		<price>292000</price>
+	</cpu>
+	<cpu>
+		<company>인텔</company>
+		<name>I5-7600</name>
+		<etc>소켓 1151 / 4 코어 / 4 쓰레드 / 연산체계 64비트 / 작동속도 3.50Ghz / 터보속도 4.10Ghz
+		</etc>
+		<price>258000</price>
+	</cpu>
+	<cpu>
+		<company>인텔</company>
+		<name>I5-7500</name>
+		<etc>소켓 1151 / 4 코어 / 4 쓰레드 / 연산체계 64비트 / 작동속도 3.40Ghz / 터보속도 3.80Ghz
+		</etc>
+		<price>233000</price>
+	</cpu>
+	<cpu>
+		<company>인텔</company>
+		<name>I5-7400</name>
+		<etc>소켓 1151 / 4 코어 / 4 쓰레드 / 연산체계 64비트 / 작동속도 3.00Ghz / 터보속도 3.50Ghz
+		</etc>
+		<price>219000</price>
+	</cpu>
+	<cpu>
+		<company>인텔</company>
+		<name>I3-7350K</name>
+		<etc>소켓 1151 / 2 코어 / 4 쓰레드 / 연산체계 64비트 / 작동속도 4.20Ghz / 터보속도 -</etc>
+		<price>190000</price>
+	</cpu>
+	<cpu>
+		<company>인텔</company>
+		<name>I3-7300</name>
+		<etc>소켓 1151 / 2 코어 / 4 쓰레드 / 연산체계 64비트 / 작동속도 4.30Ghz / 터보속도 -</etc>
+		<price>177000</price>
+	</cpu>
+	<cpu>
+		<company>인텔</company>
+		<name>I3-7100</name>
+		<etc>소켓 1151 / 2 코어 / 4 쓰레드 / 연산체계 64비트 / 작동속도 3.90Ghz / 터보속도 -</etc>
+		<price>130000</price>
+	</cpu>
+	<cpu>
+		<company>인텔</company>
+		<name>I7-6700K</name>
+		<etc>소켓 1151 / 4 코어 / 8 쓰레드 / 연산체계 64비트 / 작동속도 4.00Ghz / 터보속도 4.20Ghz
+		</etc>
+		<price>454000</price>
+	</cpu>
+	<cpu>
+		<company>인텔</company>
+		<name>I5-6600K</name>
+		<etc>소켓 1151 / 4 코어 / 4 쓰레드 / 연산체계 64비트 / 작동속도 3.50Ghz / 터보속도 3.90Ghz
+		</etc>
+		<price>325000</price>
+	</cpu>
+	<cpu>
+		<company>인텔</company>
+		<name>I3-6320</name>
+		<etc>소켓 1151 / 2 코어 / 4 쓰레드 / 연산체계 64비트 / 작동속도 3.90Ghz / 터보속도 -</etc>
+		<price>190000</price>
+	</cpu>
+	<cpu>
+		<company>AMD</company>
+		<name>라이젠7 1800X</name>
+		<etc>소켓 AM4 / 8 코어 / 16 쓰레드 / 연산체계 64비트 / 작동속도 3.60Ghz / 터보속도 4.00Ghz
+		</etc>
+		<price>630000</price>
+	</cpu>
+	<cpu>
+		<company>AMD</company>
+		<name>라이젠7 1700X</name>
+		<etc>소켓 AM4 / 8 코어 / 16 쓰레드 / 연산체계 64비트 / 작동속도 3.40Ghz / 터보속도 3.80Ghz
+		</etc>
+		<price>474000</price>
+	</cpu>
+	<cpu>
+		<company>AMD</company>
+		<name>라이젠7 1700</name>
+		<etc>소켓 AM4 / 8 코어 / 16 쓰레드 / 연산체계 64비트 / 작동속도 3.00Ghz / 터보속도 3.70Ghz
+		</etc>
+		<price>388000</price>
+	</cpu>
+	<cpu>
+		<company>AMD</company>
+		<name>라이젠5 1600X</name>
+		<etc>소켓 AM4 / 6 코어 / 12 쓰레드 / 연산체계 64비트 / 작동속도 3.60Ghz / 터보속도 4.00Ghz
+		</etc>
+		<price>306000</price>
+	</cpu>
+	<cpu>
+		<company>AMD</company>
+		<name>라이젠5 1600</name>
+		<etc>소켓 AM4 / 6 코어 / 12 쓰레드 / 연산체계 64비트 / 작동속도 3.20Ghz / 터보속도 3.60Ghz
+		</etc>
+		<price>261000</price>
+	</cpu>
+	<cpu>
+		<company>AMD</company>
+		<name>라이젠5 1500X</name>
+		<etc>소켓 AM4 / 4 코어 / 8 쓰레드 / 연산체계 64비트 / 작동속도 3.50Ghz / 터보속도 3.70Ghz
+		</etc>
+		<price>231000</price>
+	</cpu>
+	<cpu>
+		<company>AMD</company>
+		<name>라이젠5 1400</name>
+		<etc>소켓 AM4 / 4 코어 / 8 쓰레드 / 연산체계 64비트 / 작동속도 3.20Ghz / 터보속도 3.40Ghz
+		</etc>
+		<price>198000</price>
+	</cpu>
+	<cpu>
+		<company>AMD</company>
+		<name>라이젠3 1300X</name>
+		<etc>소켓 AM4 / 4 코어 / 4 쓰레드 / 연산체계 64비트 / 작동속도 3.50Ghz / 터보속도 3.70Ghz
+		</etc>
+		<price>165000</price>
+	</cpu>
+	<cpu>
+		<company>AMD</company>
+		<name>라이젠3 1200</name>
+		<etc>소켓 AM4 / 4 코어 / 4 쓰레드 / 연산체계 64비트 / 작동속도 3.10Ghz / 터보속도 3.40Ghz
+		</etc>
+		<price>137000</price>
+	</cpu>
+	<cpu>
+		<company>AMD</company>
+		<name>스레드리퍼 1950X</name>
+		<etc>소켓 TR4 / 16 코어 / 32 쓰레드 / 연산체계 64비트 / 작동속도 3.50Ghz / 터보속도 4.00Ghz
+		</etc>
+		<price>1375000</price>
+	</cpu>
+	<cpu>
+		<company>AMD</company>
+		<name>스레드리퍼 1920X</name>
+		<etc>소켓 TR4 / 12 코어 / 24 쓰레드 / 연산체계 64비트 / 작동속도 3.50Ghz / 터보속도 4.00Ghz
+		</etc>
+		<price>1071000</price>
+	</cpu>
+</computer>
